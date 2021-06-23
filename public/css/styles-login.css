@@ -78,6 +78,11 @@ main label {
 
 @media (max-width: 360px) {
 
+    main form {
+        margin-left: 5%;
+        margin-right: 5%;
+        width: 90vw;
+    }
     main form h3 {
         font-size: 16px;
     }
@@ -89,6 +94,7 @@ main label {
 @media (min-width: 361px) {
 
     main form {
+        margin-bottom: 7%;
         margin-top: 7%;
     }
     main input {
@@ -102,6 +108,7 @@ main label {
 @media (min-width: 769px) {
 
     main form {
+        margin-bottom: 5%;
         margin-top: 5%;
     }
 
